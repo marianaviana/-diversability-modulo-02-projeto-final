@@ -171,7 +171,6 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para detalhes.
 
 Para dúvidas ou problemas:
    - Verifique se todos os arquivos estão na estrutura correta
-   - Confirme que o navegador suporta JavaScript ES6+
    - Verifique o console do navegador para erros
 
 ______________________
