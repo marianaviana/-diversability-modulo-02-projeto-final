@@ -1,6 +1,6 @@
 
 # 📰 Sistema de Gerenciamento de Blog
-Este projeto foi desenvolvido como parte das atividades da disciplina da trilha de Front-end Javascript no Módulo 02 (Nivelamento de Lógica de Programação e OO) do programa DiversAbility.
+Este projeto foi desenvolvido como parte das atividades da disciplina da trilha de Front-end Javascript no Módulo 02 (Programação Orientada a Objetos) do programa DiversAbility.
 
 Este é um sistema completo de gerenciamento de blog desenvolvido em TypeScript, seguindo os princípios de Programação Orientada a Objetos (POO).
 
