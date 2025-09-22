@@ -117,7 +117,6 @@ classDiagram
 - Tratamento adequado de erros do tipo `unknown`
 - Mensagens de erro claras e informativas
 
-
 ## 📋 Base da Estrutura de Arquivos
 ```text
 ├── LICENSE
@@ -171,8 +170,7 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para detalhes.
 
 Para dúvidas ou problemas:
    - Verifique se todos os arquivos estão na estrutura correta
-   - Verifique o console do navegador para erros
-
+   - Verifique o console do terminal para erros
 ______________________
 
 > **Nota:** Este projeto foi desenvolvido para fins educacionais como parte do programa DiversAbility da Ada Tech em parceria com a Cognizant.
