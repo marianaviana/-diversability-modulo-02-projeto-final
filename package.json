@@ -1,0 +1,20 @@
+{
+  "name": "blog-system-",
+  "version": "1.0.0",
+  "description": "Sistema de gerenciamento de blog em TypeScript do curso da Ada.Tech",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/index.ts",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
