@@ -155,3 +155,23 @@ npm  install
 # Executar o projeto
 npm  start
 ```
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para detalhes.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## 👥 Autores
+   - Mariana Viana - Desenvolvimento e implementação
+   - Ada Tech & Cognizant - Programa DiversAbility
+
+## 🙋‍♂️ Suporte
+
+Para dúvidas ou problemas:
+   - Verifique se todos os arquivos estão na estrutura correta
+   - Confirme que o navegador suporta JavaScript ES6+
+   - Verifique o console do navegador para erros
+
+______________________
+
+> **Nota:** Este projeto foi desenvolvido para fins educacionais como parte do programa DiversAbility da Ada Tech em parceria com a Cognizant.
