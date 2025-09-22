@@ -119,23 +119,25 @@ classDiagram
 
 
 ## 📋 Base da Estrutura de Arquivos
-```
-blog-system/
-├── src/
-│   ├── models/
-│   │   ├── index.ts
-│   │   ├── Usuario.ts
-│   │   ├── Publicacao.ts
-│   │   ├── Artigo.ts
-│   │   ├── VideoPost.ts
-│   │   ├── Comentario.ts
-│   │   ├── Categoria.ts
-│   │   └── types.ts
-│   ├── index.ts
-│   └── utils.ts
+```text
+├── LICENSE
+├── README.md
+├── package-lock.json
 ├── package.json
-├── tsconfig.json
-└── README.md
+├── src/
+│   ├── index.ts
+│   ├── models/
+│   │   ├── Artigo.ts
+│   │   ├── Categoria.ts
+│   │   ├── Comentario.ts
+│   │   ├── Post.ts
+│   │   ├── Publicacao.ts
+│   │   ├── Usuario.ts
+│   │   ├── VideoPost.ts
+│   │   ├── index.ts
+│   │   └── types.ts
+│   └── utils.ts
+└── tsconfig.json
 ```
 
 ## 🚀 Como Executar
